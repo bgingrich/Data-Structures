@@ -36,7 +36,7 @@ class LRUCache:
 
     """
     - Adds the given key-value pair to the cache. 
-    - The newly- added pair should be considered the 
+    - The newly-added pair should be considered the 
     most-recently used entry in the cache. 
     - If the cache is already at max capacity
     before this entry is added, then the oldest entry in the
